@@ -38,6 +38,11 @@ GIF created with Kap
 
 Describe any challenges encountered while building the app.
 
+The major challenge I faced was uploading the project onto github. I had another repository before this one where I had everything but the gif file was to large and tried pushing but failed.
+After this, I made it smaller and smaller and it still would not push onto the repository on github. I then decided that something was wrong with the past commits, and so I tried deleting
+some of my past commits but then I made a bit of a mess and so I decided to fork it again and just copy all my code from my old repository and upload the small gif and upon doing so,
+it immediately worked and I was able to upload everything.
+
 ## License
 
     Copyright 2023 Carlos Ortiz
